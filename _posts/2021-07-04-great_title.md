@@ -1,3 +1,8 @@
+---
+title: "AWESOME PAGE"
+date: 2021-07-06
+---
+
 # Title
 ---
 >this site is great ~everyone
